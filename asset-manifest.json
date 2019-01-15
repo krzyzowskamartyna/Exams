@@ -1,7 +1,7 @@
 {
   "main.css": "/Exams/static/css/main.a9823d26.chunk.css",
-  "main.js": "/Exams/static/js/main.3dc9604f.chunk.js",
-  "main.js.map": "/Exams/static/js/main.3dc9604f.chunk.js.map",
+  "main.js": "/Exams/static/js/main.5dd88964.chunk.js",
+  "main.js.map": "/Exams/static/js/main.5dd88964.chunk.js.map",
   "static/js/1.bff86599.chunk.js": "/Exams/static/js/1.bff86599.chunk.js",
   "static/js/1.bff86599.chunk.js.map": "/Exams/static/js/1.bff86599.chunk.js.map",
   "runtime~main.js": "/Exams/static/js/runtime~main.cc833d2a.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/Exams/static/media/fog-foggy-forest-4827.6a4c4eef.jpg",
   "static/css/main.a9823d26.chunk.css.map": "/Exams/static/css/main.a9823d26.chunk.css.map",
   "index.html": "/Exams/index.html",
-  "precache-manifest.98701e5f080e889b6055b2ff28be97e4.js": "/Exams/precache-manifest.98701e5f080e889b6055b2ff28be97e4.js",
+  "precache-manifest.625d819863255a4a0a11ec9cdf70aa0b.js": "/Exams/precache-manifest.625d819863255a4a0a11ec9cdf70aa0b.js",
   "service-worker.js": "/Exams/service-worker.js"
 }
