@@ -15,8 +15,6 @@ class App extends Component {
         this.props.addExam(this.state.text, this.state.dueDate);
     }
     deleteExam(id) {
-        console.log('delete', id);
-        console.log('this.props', this.props)
         this.props.deleteExam(id)
     }
 

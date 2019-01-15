@@ -24,7 +24,7 @@ const exams = (state = [], action) => {
             return exams;
         case DELETE_EXAM:
             exams = removeById(state, action.id);
-            bake_cookie('exam', exam)
+            bake_cookie('exams', exams)
             return exams;
         case CLEAR_EXAMS:
             exams = [];
